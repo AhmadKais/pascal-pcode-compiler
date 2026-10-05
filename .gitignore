@@ -1,0 +1,9 @@
+build/
+pcodeGen
+pcodeGen.exe
+*.o
+*.obj
+cmake-build-*/
+ASTFile.txt
+outputFile.txt
+.idea/

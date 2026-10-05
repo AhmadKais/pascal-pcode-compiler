@@ -1,3 +1,0 @@
-C:/Users/ahmad/Documents/CompilerExersice/cmake-build-debug/CMakeFiles/CompilerExersice.dir
-C:/Users/ahmad/Documents/CompilerExersice/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ahmad/Documents/CompilerExersice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
